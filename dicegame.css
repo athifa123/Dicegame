@@ -1,0 +1,18 @@
+.container > h1 {
+    color:rgb(18, 205, 124);
+    font-size: 6rem;
+    text-align: center;
+}
+
+body{
+    background-color: rgb(147, 132, 132);
+}
+
+.Player1{
+    
+    text-align: center;
+}
+.Player2{
+   
+    text-align: center;
+}
